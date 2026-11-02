@@ -1,0 +1,261 @@
+item_id,kategori,komponen,koefisien,satuan,harga_satuan,jumlah_printed
+BS01,upah,Mandor,0.0012,OH,250000,300
+BS01,upah,Kepala Tukang,0.0006,OH,215000,129
+BS01,upah,Tukang,0.006,OH,165000,990
+BS01,upah,Pembantu Tukang,0.012,OH,115000,1380
+BS01,bahan,Paku Biasa 2 - 5 inchi,0.02,Kg,22000,440
+BS01,bahan,"Kayu Meranti Papan 2/20, 4/10",0.007,M3,7440000,52080
+BS01,bahan,"Kayu Meranti Usuk 4/6, 5/7",0.013,M3,5680000,73840
+BS01,alat,Waterpass,0.006,Hari,60000,360
+BS02,upah,Mandor,0.038,OH,250000,9500
+BS02,upah,Pembantu Tukang,0.75,OH,115000,86250
+BS03,upah,Mandor,0.075,OH,250000,18750
+BS03,upah,Pembantu Tukang,1.5,OH,115000,172500
+BS04,upah,Mandor,0.015,OH,250000,3750
+BS04,upah,Pembantu Tukang,0.3,OH,115000,34500
+BS04,bahan,Pasir Urug,1.2,M3,250000,300000
+BS05,upah,Mandor,0.025,OH,250000,6250
+BS05,upah,Pembantu Tukang,0.5,OH,115000,57500
+BS06,upah,Mandor,0.15,OH,250000,37500
+BS06,upah,Tukang Batu,0.5,OH,165000,82500
+BS06,upah,Pembantu Tukang,1.5,OH,115000,172500
+BS06,bahan,Semen PC,252.0,Kg,1500,378000
+BS06,bahan,Pasir Pasang,0.44,M3,270000,118800
+BS06,bahan,Batu Kali Belah 15/20 cm,1.2,M3,290000,348000
+BS07,upah,Mandor,0.15,OH,250000,37500
+BS07,upah,Tukang Batu,0.5,OH,165000,82500
+BS07,upah,Pembantu Tukang,1.5,OH,115000,172500
+BS07,bahan,Semen PC,252.0,Kg,1500,378000
+BS07,bahan,Pasir Pasang,0.44,M3,270000,118800
+BS07,bahan,Batu Kali Belah 15/20 cm,1.2,M3,290000,348000
+BS08,upah,Mandor,0.075,OH,250000,18750
+BS08,upah,Kepala Tukang,0.075,OH,215000,16125
+BS08,upah,Tukang Batu,0.75,OH,165000,123750
+BS08,upah,Pembantu Tukang,1.5,OH,115000,172500
+BS08,bahan,Semen PC,136.0,Kg,1500,204000
+BS08,bahan,Pasir Pasang,0.544,M3,270000,146880
+BS08,bahan,Batu Kali Belah 15/20 cm,1.2,M3,290000,348000
+BS08,alat,Sewa Vibrator Roller Min 5 jam,0.0263,Jam,343000,9011
+BS08,alat,Sewa Concrete Mixer 0.50 m3 (Min 3 jam),0.0263,Jam,115000,3021
+BS09,upah,Mandor,0.009,OH,250000,2250
+BS09,upah,Kepala Tukang Batu,0.028,OH,215000,6020
+BS09,upah,Tukang Batu,0.275,OH,165000,45375
+BS09,upah,Pembantu Tukang,1.65,OH,115000,189750
+BS09,bahan,Semen PC,267.0,Kg,1500,400500
+BS09,bahan,Pasir Cor,871.0,Kg,250,217750
+BS09,bahan,Batu Pecah Mesin 1/2 cm,1009.0,Kg,465,469185
+BS09,bahan,Air Kerja,202.0,Liter,100,20200
+BS10,upah,Mandor,0.009,OH,250000,2250
+BS10,upah,Kepala Tukang Batu,0.028,OH,215000,6020
+BS10,upah,Tukang Batu,0.275,OH,165000,45375
+BS10,upah,Pembantu Tukang,1.65,OH,115000,189750
+BS10,bahan,Semen PC,306.0,Kg,1500,459000
+BS10,bahan,Pasir Cor,832.0,Kg,250,208000
+BS10,bahan,Batu Pecah Mesin 1/2 cm,1009.0,Kg,465,469185
+BS10,bahan,Air Kerja,202.0,Liter,100,20200
+BS11,upah,Mandor,0.009,OH,250000,2250
+BS11,upah,Kepala Tukang Batu,0.028,OH,215000,6020
+BS11,upah,Tukang Batu,0.275,OH,165000,45375
+BS11,upah,Pembantu Tukang,1.65,OH,115000,189750
+BS11,bahan,Semen PC,322.0,Kg,1500,483000
+BS11,bahan,Pasir Cor,817.0,Kg,250,204250
+BS11,bahan,Batu Pecah Mesin 1/2 cm,1009.0,Kg,465,469185
+BS11,bahan,Air Kerja,202.0,Liter,100,20200
+BS12,upah,Mandor,0.009,OH,250000,2250
+BS12,upah,Kepala Tukang Batu,0.028,OH,215000,6020
+BS12,upah,Tukang Batu,0.275,OH,165000,45375
+BS12,upah,Pembantu Tukang,1.65,OH,115000,189750
+BS12,bahan,Semen PC,348.0,Kg,1500,522000
+BS12,bahan,Pasir Cor,790.0,Kg,250,197500
+BS12,bahan,Batu Pecah Mesin 1/2 cm,1009.0,Kg,465,469185
+BS12,bahan,Air Kerja,202.0,Liter,100,20200
+BS13,upah,Mandor,0.009,OH,250000,2250
+BS13,upah,Kepala Tukang Batu,0.028,OH,215000,6020
+BS13,upah,Tukang Batu,0.275,OH,165000,45375
+BS13,upah,Pembantu Tukang,1.65,OH,115000,189750
+BS13,bahan,Semen PC,368.0,Kg,1500,552000
+BS13,bahan,Pasir Cor,790.0,Kg,250,197500
+BS13,bahan,Batu Pecah Mesin 1/2 cm,1009.0,Kg,465,469185
+BS13,bahan,Air Kerja,202.0,Liter,100,20200
+BS14,upah,Mandor/jam,0.0122,Orang Jam,35700,436
+BS14,upah,Tukang Batu/Jam,0.0769,Orang Jam,23500,1807
+BS14,upah,Pembantu Tukang/Jam,0.1222,Orang Jam,16400,2004
+BS14,bahan,Semen PC,407.0,Kg,1500,610500
+BS14,bahan,Pasir Cor,731.0,Kg,250,182750
+BS14,bahan,Batu Pecah Mesin 1/2 cm,1009.0,Kg,465,469185
+BS14,bahan,Air Kerja,202.0,Liter,100,20200
+BS14,alat,Sewa Wheel Loader 1.7 - 2 m3 (min 5 Jam),0.0118,Jam,350000,4130
+BS14,alat,Batching Plant (Mini) 60 m3/jam; 75 KW,0.0201,Jam,550000,11055
+BS14,alat,"Vibrator beton; 52 mm; 3,5 m3/jam; 1 HP",0.4819,Jam,100000,48190
+BS15,upah,Mandor,0.0004,OH,250000,100
+BS15,upah,Kepala Tukang Besi,0.0007,OH,215000,151
+BS15,upah,Tukang,0.007,OH,165000,1155
+BS15,upah,Pembantu Tukang,0.007,OH,115000,805
+BS15,bahan,Besi Beton Polos,1.05,Kg,18000,18900
+BS15,bahan,Kawat Beton,0.015,Kg,35000,525
+BS16,upah,Mandor,0.009,OH,250000,2250
+BS16,upah,Kepala Tukang Kayu,0.026,OH,215000,5590
+BS16,upah,Tukang Kayu,0.26,OH,165000,42900
+BS16,upah,Pembantu Tukang,0.52,OH,115000,59800
+BS16,bahan,Paku 5 - 10 cm,0.3,Kg,26000,7800
+BS16,bahan,Kayu Meranti Bekisting,0.018,M3,5680000,102240
+BS16,bahan,Minyak Bekisting,0.1,Liter,13000,1300
+BS17,upah,Mandor,0.011,OH,250000,2750
+BS17,upah,Kepala Tukang Kayu,0.033,OH,215000,7095
+BS17,upah,Tukang Kayu,0.33,OH,165000,54450
+BS17,upah,Pembantu Tukang,0.66,OH,115000,75900
+BS17,bahan,Paku 5 - 10 cm,0.4,Kg,26000,10400
+BS17,bahan,Plywood 12 mm,0.12705,Lembar,216000,27443
+BS17,bahan,"Dolken Kayu gelam dia 8-10 cm, panjang 4m",0.65,Batang,15000,9750
+BS17,bahan,"Kayu Meranti Balok 4/6, 5/7",0.0047,M3,5680000,26412
+BS17,bahan,Minyak Bekisting,0.2,Liter,13000,2600
+BS18,upah,Mandor,0.265,OH,250000,66250
+BS18,upah,Kepala Tukang Besi,0.262,OH,215000,56330
+BS18,upah,Tukang Besi,1.05,OH,165000,173250
+BS18,upah,Tukang Batu,0.275,OH,165000,45375
+BS18,upah,Tukang Kayu,1.3,OH,165000,214500
+BS18,upah,Pembantu Tukang,5.3,OH,115000,609500
+BS18,bahan,Semen PC 50 Kg,8.4,Zak,72000,604800
+BS18,bahan,Pasir Cor,0.54,M3,250000,135000
+BS18,bahan,Batu Pecah Mesin 1/2 cm,0.81,M3,465000,376650
+BS18,bahan,Besi Beton Polos,15.75,Kg,18000,283500
+BS18,bahan,Paku Usuk,1.5,Kg,22000,33000
+BS18,bahan,Kawat Beton,2.25,Kg,35000,78750
+BS18,bahan,Kayu Meranti Bekisting,0.2,M3,5680000,1136000
+BS18,bahan,Minyak Bekisting,0.4,Liter,13000,5200
+BS19,upah,Mandor,0.265,OH,250000,66250
+BS19,upah,Kepala Tukang Besi,0.265,OH,215000,56975
+BS19,upah,Tukang Besi,1.05,OH,165000,173250
+BS19,upah,Tukang Batu,0.275,OH,165000,45375
+BS19,upah,Tukang Kayu,1.3,OH,165000,214500
+BS19,upah,Pembantu Tukang,5.3,OH,115000,609500
+BS19,bahan,Semen PC,336.0,Kg,1500,504000
+BS19,bahan,Pasir Cor,0.54,M3,250000,135000
+BS19,bahan,Batu Pecah Mesin 1/2 cm,0.81,M3,465000,376650
+BS19,bahan,Besi Beton Polos,157.5,Kg,18000,2835000
+BS19,bahan,Paku Usuk,3.2,Kg,22000,70400
+BS19,bahan,Plywood 9 mm,2.8,Lembar,183000,512400
+BS19,bahan,Kawat Beton,2.25,Kg,35000,78750
+BS19,bahan,Kayu Meranti Bekisting,0.32,M3,5680000,1817600
+BS19,bahan,"Kayu Meranti Balok 4/6, 5/7",0.12,M3,5680000,681600
+BS19,bahan,Minyak Bekisting,1.6,Liter,13000,20800
+BS20,upah,Mandor,0.0033,OH,250000,825
+BS20,upah,Kepala Tukang Batu,0.01,OH,215000,2150
+BS20,upah,Tukang Batu,0.1,OH,165000,16500
+BS20,upah,Pembantu Tukang,0.2,OH,115000,23000
+BS20,bahan,Semen PC,14.37,Kg,1500,21555
+BS20,bahan,Pasir Pasang,0.04,M3,270000,10800
+BS20,bahan,"Batu Bata Merah Kelas 1 (Uk. 22x11x4,5 cm)",71.91,Buah,700,50337
+BS21,upah,Mandor,0.0033,OH,250000,825
+BS21,upah,Kepala Tukang Batu,0.01,OH,215000,2150
+BS21,upah,Tukang Batu,0.1,OH,165000,16500
+BS21,upah,Pembantu Tukang,0.2,OH,115000,23000
+BS21,bahan,Semen PC,11.5,Kg,1500,17250
+BS21,bahan,Pasir Pasang,0.043,M3,270000,11610
+BS21,bahan,"Batu Bata Merah Kelas 1 (Uk. 22x11x4,5 cm)",71.91,Buah,700,50337
+BS22,upah,Mandor,0.0033,OH,250000,825
+BS22,upah,Kepala Tukang Batu,0.01,OH,215000,2150
+BS22,upah,Tukang Batu,0.1,OH,165000,16500
+BS22,upah,Pembantu Tukang,0.2,OH,115000,23000
+BS22,bahan,Semen PC,9.68,Kg,1500,14520
+BS22,bahan,Pasir Pasang,0.045,M3,270000,12150
+BS22,bahan,"Batu Bata Merah Kelas 1 (Uk. 22x11x4,5 cm)",71.91,Buah,700,50337
+BS23,upah,Mandor,0.0067,OH,250000,1675
+BS23,upah,Kepala Tukang Batu,0.02,OH,215000,4300
+BS23,upah,Tukang Batu,0.2,OH,165000,33000
+BS23,upah,Pembantu Tukang,0.4,OH,115000,46000
+BS23,bahan,Semen PC,26.55,Kg,1500,39825
+BS23,bahan,Pasir Pasang,0.093,M3,270000,25110
+BS23,bahan,"Batu Bata Merah Kelas 1 (Uk. 22x11x4,5 cm)",143.81,Buah,700,100667
+BS24,upah,Mandor,0.0033,OH,250000,825
+BS24,upah,Kepala Tukang Batu,0.01,OH,215000,2150
+BS24,upah,Tukang Batu,0.1,OH,165000,16500
+BS24,upah,Pembantu Tukang,0.2,OH,115000,23000
+BS24,bahan,Semen PC,7.776,Kg,1500,11664
+BS24,bahan,Pasir Pasang,0.023,M3,270000,6210
+BS25,upah,Mandor,0.0033,OH,250000,825
+BS25,upah,Kepala Tukang Batu,0.01,OH,215000,2150
+BS25,upah,Tukang Batu,0.1,OH,165000,16500
+BS25,upah,Pembantu Tukang,0.2,OH,115000,23000
+BS25,bahan,Semen PC,6.24,Kg,1500,9360
+BS25,bahan,Pasir Pasang,0.024,M3,270000,6480
+BS26,upah,Mandor,0.0033,OH,250000,825
+BS26,upah,Kepala Tukang Batu,0.01,OH,215000,2150
+BS26,upah,Tukang Batu,0.1,OH,165000,16500
+BS26,upah,Pembantu Tukang,0.2,OH,115000,23000
+BS26,bahan,Semen PC,5.184,Kg,1500,7776
+BS26,bahan,Pasir Pasang,0.026,M3,270000,7020
+BS27,upah,Mandor,0.0033,OH,250000,825
+BS27,upah,Kepala Tukang Batu,0.01,OH,215000,2150
+BS27,upah,Tukang Batu,0.1,OH,165000,16500
+BS27,upah,Pembantu Tukang,0.2,OH,115000,23000
+BS27,bahan,Semen PC,3.25,Kg,1500,4875
+BS28,upah,Mandor,0.0022,OH,250000,550
+BS28,upah,Kepala Tukang Cat,0.0067,OH,215000,1441
+BS28,upah,Tukang Cat,0.0667,OH,165000,11006
+BS28,upah,Pembantu Tukang,0.0667,OH,115000,7671
+BS28,bahan,Cat dasar,0.1,Kaleng,50000,5000
+BS28,bahan,Cat tembok Dalam,0.26,Kg,70000,18200
+BS29,upah,Mandor,0.035,OH,250000,8750
+BS29,upah,Kepala Tukang Batu,0.035,OH,215000,7525
+BS29,upah,Tukang Batu,0.35,OH,165000,57750
+BS29,upah,Pembantu Tukang,0.7,OH,115000,80500
+BS29,bahan,Semen PC,10.4,Kg,1500,15600
+BS29,bahan,Semen Berwarna,0.5,Kg,17500,8750
+BS29,bahan,Pasir Pasang,0.045,M3,270000,12150
+BS29,bahan,Keramik Lantai Uk.20x20 cm,1.0,m2,70000,70000
+BS30,upah,Mandor,0.0117,OH,250000,2925
+BS30,upah,Kepala Tukang Batu,0.035,OH,215000,7525
+BS30,upah,Tukang Batu,0.35,OH,165000,57750
+BS30,upah,Pembantu Tukang,0.7,OH,115000,80500
+BS30,bahan,Semen PC,13.632,Kg,1500,20448
+BS30,bahan,Semen Berwarna,1.5,Kg,17500,26250
+BS30,bahan,Pasir Pasang,0.027,M3,270000,7290
+BS30,bahan,Keramik Lantai Uk.40x40 cm,6.563,Buah,70000,459410
+BS31,upah,Mandor,0.002,OH,250000,500
+BS31,upah,Kepala Tukang,0.006,OH,215000,1290
+BS31,upah,Tukang,0.06,OH,165000,9900
+BS31,upah,Pembantu Tukang,0.12,OH,115000,13800
+BS31,bahan,"Seng Gelombang 3""x6""",0.7,Lembar,70000,49000
+BS31,bahan,"Paku Biasa 1/2""-1""",0.02,Kg,26000,520
+BS32,upah,Mandor,0.008,OH,250000,2000
+BS32,upah,Kepala Tukang,0.008,OH,215000,1720
+BS32,upah,Tukang,0.075,OH,165000,12375
+BS32,upah,Pembantu Tukang,0.15,OH,115000,17250
+BS32,bahan,Genteng Keramik - Uk. 31 x 34 cm,2.65,M1,25000,66250
+BS33,upah,Mandor,0.4,Orang Hari,250000,100000
+BS33,upah,Kepala Tukang,1.2,Orang Hari,215000,258000
+BS33,upah,Tukang,12.0,Orang Hari,165000,1980000
+BS33,upah,Pembantu Tukang,4.0,Orang Hari,115000,460000
+BS33,bahan,Besi Strip tebal 5mm,15.0,Kg,25000,375000
+BS33,bahan,Paku 12 cm,5.6,Kg,26000,145600
+BS33,bahan,Kayu Jati Balok 6/15,1.1,M3,8613000,9474300
+BS34,upah,Mandor,0.0135,Orang Hari,250000,3375
+BS34,upah,Kepala Tukang,0.04,Orang Hari,215000,8600
+BS34,upah,Tukang,0.4,Orang Hari,165000,66000
+BS34,upah,Pembantu Tukang,0.27,Orang Hari,115000,31050
+BS34,bahan,Paku Triplek/Eternit,0.06,Kg,30000,1800
+BS34,bahan,Triplek Uk.110 x 210 x 4 mm,0.39,Lembar,65000,25350
+BS34,bahan,"Kayu Meranti Usuk 4/6, 5/7",0.023,M3,5680000,130640
+BS35,upah,Mandor,0.004,Orang Hari,250000,1000
+BS35,upah,Kepala Tukang,0.006,Orang Hari,215000,1290
+BS35,upah,Tukang,0.06,Orang Hari,165000,9900
+BS35,upah,Pembantu Tukang,0.08,Orang Hari,115000,9200
+BS35,bahan,Cat tembok Dalam 2.5 kg,0.1,Kaleng,165000,16500
+BS35,bahan,Thinner,0.1,Lembar,59000,5900
+BS36,upah,Mandor,0.005,Orang Hari,250000,1250
+BS36,upah,Kepala Tukang,0.015,Orang Hari,215000,3225
+BS36,upah,Tukang,0.15,Orang Hari,165000,24750
+BS36,upah,Pembantu Tukang,0.015,Orang Hari,115000,1725
+BS36,bahan,Kaca Polos - Ketebalan 5 mm,1.1,M2,325000,357500
+BS36,bahan,Silicon sealant 300ml,0.05,tube,55000,2750
+BS37,upah,Mandor,0.017,Orang Hari,250000,4250
+BS37,upah,Kepala Tukang,0.05,Orang Hari,215000,10750
+BS37,upah,Tukang,0.5,Orang Hari,165000,82500
+BS37,upah,Pembantu Tukang,0.01,Orang Hari,115000,1150
+BS37,bahan,Kunci Tanam,1.0,Buah,150000,150000
+BS38,upah,Mandor,0.002,OH,250000,500
+BS38,upah,Kepala Tukang,0.001,OH,215000,215
+BS38,upah,Tukang Las,0.01,OH,165000,1650
+BS38,upah,Pembantu Tukang,0.02,OH,115000,2300
+BS38,bahan,Besi Profil WF >= 200 MM,1.1,Kg,37000,40700

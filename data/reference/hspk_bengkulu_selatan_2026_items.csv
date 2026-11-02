@@ -1,0 +1,39 @@
+item_id,uraian,satuan,nilai_hspk,upah_printed,bahan_printed,alat_printed,page_approx,note
+BS01,Pengukuran dan Pemasangan Bouwplank (UITZET),m1,129519,2799,126360,360,6,
+BS02,Penggalian Tanah Biasa untuk Konstruksi,m3,95750,95750,,,8,
+BS03,Galian Tanah Cadas/Rabat,m3,168750,191250,,,8,"As printed: Nilai HSPK (168,750) differs from the printed labor total (191,250)."
+BS04,Pengurugan Pasir (PADAT),m3,338250,38250,300000,,9,
+BS05,Pengurugan Tanah Kembali Untuk Konstruksi,m3,63750,63750,,,9,
+BS06,Pekerjaan Pemasangan Batu Kali Belah 15/20 cm (1 Pc : 3 Ps),m3,1137300,292500,844800,,13,
+BS07,Pekerjaan Pemasangan Batu Kali Belah 15/20 cm (1 Pc : 4 Ps),m3,1137300,292500,844800,,13,As printed: numerically identical to the 1 Pc : 3 Ps item although the mix differs.
+BS08,"Pekerjaan Pasangan Pondasi Batu Belah 15/20 cm, Campuran (1 Pc : 5 Pp)",m3,1042037,331125,698880,12032,19,
+BS09,Pekerjaan Beton K-100,m3,1351030,243395,1107635,,16,
+BS10,Pekerjaan Beton K-175,m3,1399780,243395,1156385,,17,
+BS11,Pekerjaan Beton K-200,m3,1420030,243395,1176635,,17,
+BS12,Pekerjaan Beton K-225,m3,1452280,243395,1208885,,17,
+BS13,Pekerjaan Beton K-250,m3,1482280,243395,1238885,,18,
+BS14,Pekerjaan Beton K-275,m3,1286882,4247,1282635,,18,"As printed: Nilai HSPK equals labor + material only; the three equipment lines (63,375) are not included in the total."
+BS15,Pekerjaan Pembesian dengan besi beton (polos/ulir),Kg,21636,2211,19425,,20,
+BS16,Pekerjaan Bekisting Sloof,m2,221880,110540,111340,,20,
+BS17,Pekerjaan Bekisting Kolom,m2,216800,140195,76605,,21,"As printed: Kayu Meranti Balok amount (26,412) is about 1% below coefficient x price (26,696): rounding in the source."
+BS18,Pekerjaan Pondasi Beton Bertulang (150 kg besi + Bekisting),m3,3818105,1165205,2652900,,22,As printed: title says 150 kg of rebar but the rebar coefficient is 15.75 kg (the column item uses 157.5 kg).
+BS19,Pekerjaan Kolom Beton Bertulang (150 kg besi + Bekisting),m3,8198050,1165850,7032200,,24,
+BS20,Pemasangan Dinding Batu Merah 1 Pc : 3 Pp tebal 1/2 bata,m2,125167,42475,82692,,30,
+BS21,Pemasangan Dinding Batu Merah 1 Pc : 4 Pp tebal 1/2 bata,m2,121672,42475,79197,,30,
+BS22,Pemasangan Dinding Batu Merah 1 Pc : 5 Pp tebal 1/2 bata,m2,119482,42475,77007,,30,
+BS23,Pemasangan Dinding Batu Merah 1 Pc : 4 Pp tebal 1 bata,m2,250577,84975,165602,,29,
+BS24,Plesteran Halus 1 Pc : 3 Ps tebal 1.5 cm,m2,60349,42475,17874,,31,
+BS25,Plesteran Halus 1 Pc : 4 Ps tebal 1.5 cm,m2,58315,42475,15840,,31,
+BS26,Plesteran Halus 1 Pc : 5 Ps tebal 1.5 cm,m2,57271,42475,14796,,32,
+BS27,Pekerjaan Acian,m2,47350,42475,4875,,33,
+BS28,Pengecatan Tembok Baru,m2,43867,20667,23200,,35,
+BS29,Pemasangan Lantai Keramik Motif Uk. 20x20 cm,m2,261025,154525,106500,,36,
+BS30,Pemasangan Keramik 40x40 cm,m2,662098,148700,513398,,36,"As printed: 40x40 tile is priced per piece (6.563 pcs/m2 x 70,000) while the 20x20 item uses 70,000 per m2, so the two items use different price bases."
+BS31,Pemasangan Atap Seng Gelombang BJLS 30,m2,75010,25490,49520,,39,
+BS32,Pemasangan Penutup Atap Genteng Keramik Glazur,m2,99595,33345,66250,,39,
+BS33,Pemasangan Kuda-Kuda Kayu Jati (Bentang Max.6 meter),m3,12792900,2798000,9994900,,37,
+BS34,Pemasangan Plafon Triplek Rangka Kayu Meranti,m2,266815,109025,157790,,41,
+BS35,Pengecatan Plafon,m2,43790,21390,22400,,41,
+BS36,Pemasangan Kaca Tebal 5 mm,m2,391200,30950,360250,,43,
+BS37,Pemasangan Kunci Tanam Kecil,Buah,248650,98650,150000,,44,
+BS38,Pekerjaan Pemasangan Besi Profil,Kg,45365,4665,40700,,26,
