@@ -1,0 +1,25 @@
+name: Extract project zip
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract and commit project files
+        run: |
+          unzip -o boq-cost-checker-agent-github.zip
+          shopt -s dotglob nullglob
+          mv boq-cost-checker-agent/* .
+          rmdir boq-cost-checker-agent || true
+          rm -f boq-cost-checker-agent-github.zip
+          rm -rf .github
+          find . -type f | sort
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Extract project files" || exit 0
+          git push
